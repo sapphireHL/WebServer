@@ -1,0 +1,7 @@
+port 9981
+serverName rainbow
+root ./html
+threadNum 2
+allowPut 0
+allowDelete 0
+showMessageReceived 0
