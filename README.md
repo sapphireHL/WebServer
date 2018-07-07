@@ -13,7 +13,7 @@ $ make
 $ make clean
 ```
 生成server可执行文件就是成功了。
-还需要安装redis，请移步[redis安装](http://www.redis.cn/download.html)
+还需要安装redis和cpp_redis，请移步[redis安装](http://www.redis.cn/download.html)，[cpp_redis安装](https://github.com/Cylix/cpp_redis/wiki/Mac-&-Linux-Install)
 
 ## 运行
 首先运行redis-server，然后在目录下运行server，用浏览器访问127.0.0.1:9981/index.html
