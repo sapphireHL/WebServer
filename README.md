@@ -8,10 +8,10 @@ Cpp style http server.
 
 ## 安装方法
 下载解压之后进入目录
-`bash
+```
 $ make
 $ make clean
-`
+```
 生成server可执行文件就是成功了。
 还需要安装redis，请移步[redis安装](http://www.redis.cn/download.html)
 
