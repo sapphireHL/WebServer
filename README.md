@@ -16,4 +16,4 @@ $ make clean
 还需要安装redis，请移步[redis安装](http://www.redis.cn/download.html)
 
 ## 运行
-首先运行redis-server，然后在目录下运行server。
+首先运行redis-server，然后在目录下运行server,访问127.0.0.1:9981/index.html
